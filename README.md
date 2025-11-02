@@ -20,11 +20,11 @@ AspIde is a project developed in 2021 for my bachelor's thesis. It is not perfec
 ### Backend
 1. Install Python dependencies:
 	```bash
-	pip install -r requirements.txt
+	pip install -r backend/requirements.txt
 	```
 2. Start the backend:
 	```bash
-	python backend/app.py
+	python -m flask --app backend/app.py run
 	```
 
 ### Frontend

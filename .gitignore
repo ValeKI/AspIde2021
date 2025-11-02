@@ -8,7 +8,7 @@
 /backend/**/*.pyo
 /backend/**/*.pyd
 
-# DLV2 binary (non deve essere pubblico)
+# DLV2 binary
 /backend/timing/dlv2.win.x64_5
 
 # Panalysis cache
@@ -42,3 +42,6 @@ Thumbs.db
 
 # SpecStory files
 /.specstory/
+
+# Venv
+/venv/
