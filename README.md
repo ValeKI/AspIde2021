@@ -2,6 +2,9 @@
 
 AspIde is a project developed in 2021 for my bachelor's thesis. It is not perfect and was created for educational and experimental purposes, so some parts may be incomplete. The platform allows syntactic analysis and management of ASP programs, with a Python backend and React/Ionic frontend. The project is designed to facilitate writing, execution, and analysis of logic programs, with regression, timing, and file management features.
 
+> **Note:** This is not even my complete project—the full version was unfortunately lost. :-(
+> **Note:** The regression feature is also an incomplete version.
+
 ## Project Structure
 
 - **backend/**: Python backend for APIs, analysis, regression, timing, and ASP parsing.
