@@ -1,0 +1,44 @@
+/backend/static/
+/backend/timing/venv/
+/backend/testUrl.txt
+
+# Python cache
+/backend/**/__pycache__/
+/backend/**/*.pyc
+/backend/**/*.pyo
+/backend/**/*.pyd
+
+# DLV2 binary (non deve essere pubblico)
+/backend/timing/dlv2.win.x64_5
+
+# Panalysis cache
+/backend/panalysis/__pycache__/
+
+# SyntAnalysis cache
+/backend/syntAnalysis/__pycache__/
+
+# Timing cache
+/backend/timing/__pycache__/
+
+# Node/React build e dipendenze
+/webasp/build/
+/webasp/node_modules/
+
+# Capacitor/Android build
+/webasp/android/build/
+/webasp/android/app/build/
+
+# IDE/config
+.idea/
+.vscode/
+
+# Log e temp
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# SpecStory files
+/.specstory/
