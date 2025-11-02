@@ -1,0 +1,7 @@
+{
+  "name": "webasp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
